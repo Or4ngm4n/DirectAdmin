@@ -1,8 +1,7 @@
 #!c:\perl\bin\perl.exe
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> This Code Not work <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 # DirectBf v1 By Or4nge.M4n  
-# Home & Powered By : Sec4ever.com
-# thanks to : sec4ever & n4ss1m & i-Hmx ... (:
+
 use LWP::UserAgent;
 $urlup = "188.165.74.206"; # Change here
 print "Content-type: text/html\n\n";
